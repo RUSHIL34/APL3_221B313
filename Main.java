@@ -24,7 +24,7 @@ class Juet {
   public class Main {
     public static void main(String[] args) {
       Juet Obj = new Juet();
-      Obj.setName("Amit"); 
+      Obj.setName("Rushil"); 
       Obj.setAge(21);
       System.out.println("Name : "+Obj.getName());
        System.out.println("Age : "+Obj.getAge());
